@@ -1,0 +1,16 @@
+{
+  "name": "http-zombie",
+  "version": "0.0.1",
+  "description": "zombie",
+  "main": "app.js",
+  "dependencies": {
+    "zombie": "~2.0.0-alpha24",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "IskenHuang",
+  "license": "MIT"
+}
